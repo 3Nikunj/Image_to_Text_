@@ -172,7 +172,6 @@ streamlit-option-menu==0.3.12
 sympy==1.12
 tenacity==8.2.3
 tensorboard==2.12.2
-tensorboard-data-server==0.7.0
 
 
 
