@@ -168,7 +168,7 @@ split-folders==0.5.1
 sqlparse==0.4.4
 stack-data==0.6.2
 streamlit==1.31.1
-streamlit-option-menu==0.3.12
+
 
 
 
