@@ -10,7 +10,7 @@ if uploaded_file is not None:
 
     image = Image.open(uploaded_file)
 
-    pyt.pytesserract.tesseract_cmd = "tesseract.exe"
+    pyt.pytesseract.tesseract_cmd = "tesseract.exe"
     text = pyt.image_to_string(image)
 
     # Display the original image
