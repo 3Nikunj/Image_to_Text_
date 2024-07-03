@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import pytesseract as pyt
-import io
+
 
 uploaded_file = st.file_uploader(
     "Choose an image...", type=["jpg", "jpeg", "png"])
